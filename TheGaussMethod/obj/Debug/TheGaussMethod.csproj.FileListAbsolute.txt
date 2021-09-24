@@ -1,0 +1,7 @@
+C:\VS\TheGaussMethod\TheGaussMethod\bin\Debug\TheGaussMethod.exe.config
+C:\VS\TheGaussMethod\TheGaussMethod\bin\Debug\TheGaussMethod.exe
+C:\VS\TheGaussMethod\TheGaussMethod\bin\Debug\TheGaussMethod.pdb
+C:\VS\TheGaussMethod\TheGaussMethod\obj\Debug\TheGaussMethod.csproj.AssemblyReference.cache
+C:\VS\TheGaussMethod\TheGaussMethod\obj\Debug\TheGaussMethod.csproj.CoreCompileInputs.cache
+C:\VS\TheGaussMethod\TheGaussMethod\obj\Debug\TheGaussMethod.exe
+C:\VS\TheGaussMethod\TheGaussMethod\obj\Debug\TheGaussMethod.pdb
